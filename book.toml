@@ -1,0 +1,6 @@
+[book]
+authors = ["gwenn"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rustyline notes"
