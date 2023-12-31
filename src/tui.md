@@ -14,5 +14,6 @@ Like `linenoise` which chooses to avoid using `ncurses`,
 - [termbox2](https://github.com/termbox/termbox2) (C)
 - [termion](https://gitlab.redox-os.org/redox-os/termion.git) (Rust)
 - [termwiz](https://github.com/wez/wezterm/tree/main/termwiz) (Rust)
+- [tty-interface](https://github.com/danielway/tty-interface) (Rust)
 - [tui-textarea](https://github.com/rhysd/tui-textarea) (Rust)
 - [vty](https://github.com/jtdaugherty/vty) (Haskell)
