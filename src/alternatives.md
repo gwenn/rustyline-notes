@@ -8,7 +8,7 @@
 - [libedit](https://github.com/ksherlock/libedit) (C)
 - [linecook](https://github.com/injinj/linecook) (C++)
 - [Lineeditor](https://github.com/AmrDeveloper/Lineeditor) (Rust)
-- [linefeed](https://github.com/murarth/linefeed) (Rust)
+- ~~[linefeed](https://github.com/murarth/linefeed) (Rust)~~
 - [linenoise](https://github.com/antirez/linenoise) (C)
 - [linenoize](https://github.com/joachimschmidt557/linenoize) (Zig)
 - [liner](https://gitlab.redox-os.org/redox-os/liner) (Rust)
@@ -17,8 +17,8 @@
 - [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) (Python)
 - [readline](https://git.savannah.gnu.org/cgit/readline.git)
 - [reedline](https://github.com/nushell/reedline) (Rust)
-- [replxx](https://github.com/AmokHuginnsson/replxx) (C)
-- [sl-liner](https://github.com/sl-sh-dev/sl-liner) (Rust)
+- [replxx](https://github.com/AmokHuginnsson/replxx) (C++)
+- ~~[sl-liner](https://github.com/sl-sh-dev/sl-liner) (Rust)~~
 - [termwiz](https://github.com/wez/wezterm/tree/main/termwiz) (Rust)
 - [zle](https://github.com/zsh-users/zsh) (C)
-- [zline](https://github.com/ajkachnic/zline) (Zig)
+- ~~[zline](https://github.com/ajkachnic/zline) (Zig)~~
