@@ -14,6 +14,7 @@
 - [liner](https://gitlab.redox-os.org/redox-os/liner) (Rust)
 - [liso](https://github.com/SolraBizna/liso) (Rust)
 - [noline](https://github.com/rustne-kretser/noline) (Rust)
+- [promkit](https://github.com/ynqa/promkit) (Rust)
 - [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) (Python)
 - [readline](https://git.savannah.gnu.org/cgit/readline.git)
 - [reedline](https://github.com/nushell/reedline) (Rust)
