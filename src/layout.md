@@ -12,3 +12,5 @@ Sort by top of stack, same collapsed (when >= 5):
         unicode_segmentation::grapheme::GraphemeCursor::next_boundary::he29d337853eeb707  (in example)        115
         _$LT$rustyline..tty..unix..PosixRenderer$u20$as$u20$rustyline..tty..Renderer$GT$::calculate_position::h27c3e32aa6d92973  (in example)        106
 ```
+
+Check <https://github.com/fish-shell/fish-shell/blob/master/src/screen.rs> implementation.
