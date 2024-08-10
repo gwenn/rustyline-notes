@@ -1,1 +1,1 @@
-src/SUMMARY.md
+See [->](src/SUMMARY.md)
