@@ -27,3 +27,13 @@ But ...
 - <https://github.com/zhiburt/ansi-str>
 - <https://gitlab.com/zhiburt/ansitok>
 - <https://github.com/dandavison/vte-ansi-tools/>
+
+## Blocks
+
+Ideally, `Highlighter` should not apply style directly on input text.
+But should return `Styled blocks` so that `rustyline` can easily split some blocks when needed (for scrolling, continuation prompt, ...).
+
+`ansi-str` crate (see `get_blocks`) can be used to keep compatibility with existing implementation.
+But its `Style` struct is immutable / unusable.
+
+`anstyle` crate can be used instead as a default / optional implementation.

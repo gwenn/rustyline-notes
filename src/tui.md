@@ -10,6 +10,7 @@ Like `linenoise` which chooses to avoid using `ncurses`,
 - [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) (Python)
 - [ratatui](https://github.com/ratatui-org/ratatui) (Rust)
 - [sl-console](https://github.com/sl-sh-dev/sl-console) (Rust)
+- [stakker_tui](git@github.com:uazu/stakker_tui.git) (Rust)
 - [tcell](https://github.com/gdamore/tcell) (Go)
 - [termbox2](https://github.com/termbox/termbox2) (C)
 - [termion](https://gitlab.redox-os.org/redox-os/termion.git) (Rust)
