@@ -14,3 +14,7 @@ Sort by top of stack, same collapsed (when >= 5):
 ```
 
 Check <https://github.com/fish-shell/fish-shell/blob/master/src/screen.rs> implementation.
+
+## Old Draft
+
+<https://github.com/kkawakam/rustyline/compare/master...gwenn:rustyline:redraw#diff-5caf3cc5d3186459b336694e55ad1898aaf48294956d7886e318cde96bb9eb99>
