@@ -6,6 +6,7 @@
 - [Completion](./completion.md)
 - [Color](./color.md)
 - [Design](./design.md)
+- [Flow](flow.md)
 - [Input](./input.md)
 - [Layout](./layout.md)
 - [Modes](./modes.md)
