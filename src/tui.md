@@ -6,6 +6,7 @@ Like `linenoise` which chooses to avoid using `ncurses`,
 - [brick](https://github.com/jtdaugherty/brick) (Haskell)
 - [cpp-terminal](https://github.com/certik/cpp-terminal) (C++)
 - [crossterm](https://github.com/crossterm-rs/crossterm) (Rust)
+- [libvaxis](https://github.com:rockorager/libvaxis) (Zig)
 - [mortal](https://github.com/murarth/mortal) (Rust)
 - [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) (Python)
 - [ratatui](https://github.com/ratatui-org/ratatui) (Rust)

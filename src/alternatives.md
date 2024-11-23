@@ -1,5 +1,6 @@
 # Alternatives
 
+- [console](https://github.com/console-rs/console) (Rust)
 - [Crossline](https://github.com/jcwangxp/Crossline) (C)
 - [go-prompt](https://github.com/c-bata/go-prompt) (Go)
 - [haskeline](https://github.com/judah/haskeline) (Haskell)

@@ -14,6 +14,8 @@
 - [Nix](./nix.md)
 - [Prompt](./prompt.md)
 - [Processors](./processors.md)
+- [Queries](queries.md)
+- [Signals](signals.md)
 - [Scroll](./scroll.md)
 - [Syntax](./syntax.md)
 - [Style](./style.md)
