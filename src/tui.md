@@ -8,6 +8,7 @@ Like `linenoise` which chooses to avoid using `ncurses`,
 - [crossterm](https://github.com/crossterm-rs/crossterm) (Rust)
 - [libvaxis](https://github.com/rockorager/libvaxis) (Zig)
 - [mortal](https://github.com/murarth/mortal) (Rust)
+- [notcurses](https://github.com/dankamongmen/notcurses) (C)
 - [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) (Python)
 - [ratatui](https://github.com/ratatui-org/ratatui) (Rust)
 - [sl-console](https://github.com/sl-sh-dev/sl-console) (Rust)
