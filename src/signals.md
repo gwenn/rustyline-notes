@@ -8,6 +8,8 @@
 - https://github.com/murarth/mortal/blob/e87c685af2f424be7e4f039baf36f8327d389f71/src/unix/terminal.rs#L390-L406
 - https://github.com/dankamongmen/notcurses/blob/50f18543e42f9fd35aed456808ca5adbc15ff5d7/src/lib/unixsig.c#L213-L214
 
+And no `SA_RESTART`
+
 ## Termios
 
 ### Default mode
