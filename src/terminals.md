@@ -3,6 +3,7 @@
 - [alacritty](https://github.com/alacritty/alacritty)
 - [iTerm2](https://github.com/gnachman/iTerm2)
 - [kitty](https://github.com/kovidgoyal/kitty)
+- [rio](https://github.com/raphamorim/rio)
 - [wezterm](https://github.com/wez/wezterm)
 
 ## Misc
