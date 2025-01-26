@@ -1,6 +1,7 @@
 # Terminals
 
 - [alacritty](https://github.com/alacritty/alacritty)
+- [Ghostty](https://github.com/ghostty-org/ghostty)
 - [iTerm2](https://github.com/gnachman/iTerm2)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [rio](https://github.com/raphamorim/rio)
