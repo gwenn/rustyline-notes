@@ -23,3 +23,4 @@
 - [Tests](./tests.md)
 - [TUI](./tui.md)
 - [Windows OS](./windows.md)
+- [Fish](./fish.md)
