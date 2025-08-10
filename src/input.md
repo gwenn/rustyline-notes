@@ -31,6 +31,13 @@
 
 <https://github.com/kkawakam/rustyline/blob/435ae555de5876cbdc7d0350fe32c4939d800ee7/src/tty/unix.rs#L260C22-L260C22>
 
+## Fake input
+
+On unix with `TIOCSTI`:
+<https://man7.org/linux/man-pages/man2/TIOCSTI.2const.html>
+
+Used by [isocline](https://daanx.github.io/isocline/group__async.html) to stop the loop.
+
 ## Issues
 
 - [vte](https://github.com/alacritty/vte/issues/101)
