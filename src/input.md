@@ -10,6 +10,10 @@
 
 <https://github.com/crossterm-rs/crossterm/blob/08762b3ef4519e7f834453bf91e3fe36f4c63fe7/src/event/sys/unix/parse.rs#L45-L75>
 
+- Fish shell:
+
+<https://github.com/fish-shell/fish-shell/blob/master/src/input_common.rs>
+
 - Termina (helix)
 
 <https://github.com/helix-editor/termina>
