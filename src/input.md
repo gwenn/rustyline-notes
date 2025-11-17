@@ -14,7 +14,7 @@
 
 <https://github.com/fish-shell/fish-shell/blob/master/src/input_common.rs>
 
-- Termina (helix)
+- Termina (helix) (doesn't seem to handle Esc-X as Alt-X (no timeout on single Esc))
 
 <https://github.com/helix-editor/termina>
 
