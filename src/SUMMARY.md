@@ -8,6 +8,7 @@
 - [Design](./design.md)
 - [Flow](flow.md)
 - [Input](./input.md)
+- [Input test](./input-test.md)
 - [Layout](./layout.md)
 - [Modes](./modes.md)
 - [Mouse](./mouse.md)
