@@ -21,6 +21,7 @@
 - [reedline](https://github.com/nushell/reedline) (Rust)
 - [replxx](https://github.com/AmokHuginnsson/replxx) (C++)
 - ~~[sl-liner](https://github.com/sl-sh-dev/sl-liner) (Rust)~~
+- [spiral](https://codeberg.org/lch361/spiral) (Zig)
 - [termwiz](https://github.com/wez/wezterm/tree/main/termwiz) (Rust)
 - [zle](https://github.com/zsh-users/zsh) (C)
 - ~~[zline](https://github.com/ajkachnic/zline) (Zig)~~
