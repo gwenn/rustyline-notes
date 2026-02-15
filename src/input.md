@@ -2,6 +2,10 @@
 
 ## Ansi escape sequence parser impls
 
+- Anes:
+
+<https://github.com/qwandor/anes-rs/blob/main/anes/src/parser.rs>
+
 - Console: (doesn't seem to handle Esc-X as Alt-X (no timeout on single Esc))
 
 <https://github.com/console-rs/console/blob/de2f15a31a8fef0b0e65ef4bdf92cd03c3061dac/src/unix_term.rs#L207-L284>
