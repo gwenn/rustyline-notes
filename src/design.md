@@ -34,3 +34,5 @@ I guess we can use a dedicated [ChangeListener](https://docs.rs/rustyline/*/rust
 
 See old draft [here](https://github.com/kkawakam/rustyline/compare/master...gwenn:rustyline:redraw)
 ...
+
+[Fish allows the interactive reader to write its output to screen efficiently](https://github.com/fish-shell/fish-shell/blob/master/src/screen.rs)
