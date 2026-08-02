@@ -11,6 +11,7 @@
 - [Lineeditor](https://github.com/AmrDeveloper/Lineeditor) (Rust)
 - ~~[linefeed](https://github.com/murarth/linefeed) (Rust)~~
 - [linenoise](https://github.com/antirez/linenoise) (C)
+- [msteveb-linenoise](https://github.com/msteveb/linenoise) (C)
 - [linenoize](https://github.com/joachimschmidt557/linenoize) (Zig)
 - [liner](https://gitlab.redox-os.org/redox-os/liner) (Rust)
 - [liso](https://github.com/SolraBizna/liso) (Rust)
