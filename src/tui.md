@@ -4,7 +4,7 @@ Like `linenoise` which chooses to avoid using `ncurses`,
 `rustyline` uses no TUI library but may should.
 
 - [brick](https://github.com/jtdaugherty/brick) (Haskell)
-- [compio-ierm](https://github.com/compio-rs/compio/tree/master/compio-term) (Rust)
+- [compio-term](https://github.com/compio-rs/compio/tree/master/compio-term) (Rust)
 - [cpp-terminal](https://github.com/certik/cpp-terminal) (C++)
 - [crossterm](https://github.com/crossterm-rs/crossterm) (Rust)
 - [libvaxis](https://github.com/rockorager/libvaxis) (Zig)
