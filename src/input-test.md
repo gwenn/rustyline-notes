@@ -22,7 +22,7 @@ cargo run --example keyboard
 ```
 
 
-### crostterm
+### crossterm
 
 <https://github.com/crossterm-rs/crossterm/blob/master/examples/key-display.rs>
 ```sh
